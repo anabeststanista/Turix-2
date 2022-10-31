@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Turix nuevo",
+			"path": "."
+		},
+		{
+			"name": "script",
+			"path": "..\\..\\Turix nuevo\\script"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Turix nuevo"
+	}
+}
